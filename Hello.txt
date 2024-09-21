@@ -1,1 +1,2 @@
-Hi Dakshah People, let's learn GIT
+Hi Dakshah People, let's learn GIT.
+This is going as the second commit.

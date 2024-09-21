@@ -1,8 +1,8 @@
---- USER DEFINED FUNCTIONS
+--- USER DEFINED FUNCTIONS (21st September 2024)
 
---- Scalar Valued Functions
+--- What are Scalar Valued Functions?
 
---- Find the name of the person who earns the highest salary
+--- Find the name of the person who earns the highest salary?
 
 SELECT *
 FROM employees

@@ -1,2 +1,5 @@
 Hi Dakshah People, let's learn GIT.
 This is going as the second commit.
+
+Hi I am Puru.
+This is a message that Puru Typed on the 22nd of Septermber 2024 9:15 PM (IST)

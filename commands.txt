@@ -1,0 +1,75 @@
+To create an empty repository , the command is
+
+git init
+************************************************************************************************************************
+
+to status the status of git, the command is
+
+git status
+
+************************************************************************************************************************
+
+Create a new file in the working directory
+In the class we created a file called Hello.txt
+At this point of time our working directory has a new file called Hello.txt
+
+************************************************************************************************************************
+
+Type git status
+
+git will tell us that there is a file that is in the working directory but not in the staging area
+
+************************************************************************************************************************
+
+To move the file from the working area to the staging area
+we will use the command
+
+git add Hello.txt
+
+************************************************************************************************************************
+
+Check the status of the GIT using the 
+git status
+
+************************************************************************************************************************
+
+to bring the file back from the staging area to the working directory we use the command
+ git rm --cached Hello.txt
+
+
+************************************************************************************************************************
+
+Create a folder, In the class I created a folder called SQL and inside the folder I added some files
+
+then when I typed 
+
+git status
+
+got showed me all the files which are in the working directory but not in the stagin area
+
+to add these files to the staging area I typed the command
+
+git add .
+
+
+
+************************************************************************************************************************
+
+git commit -m "type your commit message below 40 character"
+
+************************************************************************************************************************
+
+to see all the commits we will use the command
+
+git log
+
+
+************************************************************************************************************************
+
+
+to see all the commits in a single line
+
+git log --oneline
+
+
+************************************************************************************************************************

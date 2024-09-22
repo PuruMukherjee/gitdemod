@@ -6,3 +6,9 @@ This is a message that Puru Typed on the 22nd of Septermber 2024 9:15 PM (IST)
 
 Hi I am in the master branch
 This is a message from the master branch
+
+Resolving the issues in the merge
+
+Hi I am the git _change_command
+This code change was made by me on the 22nd September 2024 at 9:22 PM IST
+

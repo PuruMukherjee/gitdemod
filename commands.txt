@@ -73,3 +73,19 @@ git log --oneline
 
 
 ************************************************************************************************************************
+The command to create a new branch is 
+git branch <<new_branch_name>>
+
+example to create a branch called puru_branch the command is
+git branch puru_branch
+
+To see whcih branch you are currently in , the command is 
+git branch
+
+
+
+To move from one from to another branch the command is 
+git checkout puru_branch
+
+
+************************************************************************************************************************

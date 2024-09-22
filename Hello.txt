@@ -1,2 +1,6 @@
 Hi Dakshah People, let's learn GIT.
 This is going as the second commit.
+
+
+Hi I am the git _change_command
+This code change was made by me on the 22nd September 2024 at 9:22 PM IST

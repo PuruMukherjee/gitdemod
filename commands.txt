@@ -89,3 +89,29 @@ git checkout puru_branch
 
 
 ************************************************************************************************************************
+In the new branch (in this case the branch is puru_branch)
+Make the code changes that you want to do
+add the changed files to the staging area of the puru_branch
+git add .
+
+commit the files from the staging area of puru_branch to the local repo of the puru_branch
+
+git commit -m "committing changes in puru_branch"
+
+
+Now if you switch back to the master branch by giving this command
+
+git checkout master
+you will not be able to see the changes that you did in the puru_branch
+because you are currently looking at the working directory of the master branch which is different from the working directory of the puru_branch
+
+To merge puru_branch with master
+First checkout to master branch the command is
+git checkout master
+
+to merge the puru_branch the command is 
+git merge puru_branch
+now the working directory of the master branch is equal to the working directory of the puru branch
+
+************************************************************************************************************************
+
